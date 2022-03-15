@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba65f39b-219b-4eb6-9b2a-bc65d8bf43a4": {
+      "ProjectGuid": "ba65f39b-219b-4eb6-9b2a-bc65d8bf43a4",
+      "DisplayName": "VueApi",
+      "ColorIndex": 0
+    },
+    "c8c9ad34-2db9-4fde-bf96-13d599b6e594": {
+      "ProjectGuid": "c8c9ad34-2db9-4fde-bf96-13d599b6e594",
+      "DisplayName": "QuickstartIdentityServer",
+      "ColorIndex": 1
+    },
+    "c4939fed-cb76-43a4-8a37-ba589534642c": {
+      "ProjectGuid": "c4939fed-cb76-43a4-8a37-ba589534642c",
+      "DisplayName": "VueApi",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
